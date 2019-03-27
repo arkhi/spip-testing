@@ -36,7 +36,7 @@ La première fois, tous les provisioners seront exécutés, mais afin de ne pas 
 
 
 - `os`: Installe les packages natifs du système (Ubuntu).
-- `spip`: Installe différentes configurations nécessaires aux applications.
+- `spip`: Télécharge et décompresse Spip (en écrasant les fichiers existans) à la racine du serveur.
 - `clean`: Nettoie la machine virtuelle.
 - `done`: Lance un script en fin de processus à chaque fois que la machine est lancée.
 
