@@ -1,3 +1,7 @@
+**This repository now lives in https://framagit.org/arkhi/spip-testing**.
+
+**Ce dépôt sera désormais maintenu sur https://framagit.org/arkhi/spip-testing**.
+
 Ce dépôt permet de définir un environnement de développement pour [Spip](https://www.spip.net/).
 
 Vous pouvez copier et coller les commandes suivantes dans votre terminal.
